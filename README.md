@@ -44,6 +44,7 @@ I aim to build intelligent, ethical, and impactful AI systems that bridge resear
 
 ## 📊 GitHub Stats
 ![Souvik's GitHub stats](https://github-readme-stats.vercel.app/api?username=pramanik-souvik&show_icons=true&theme=default)  
+![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yourWakaTimeUser)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pramanik-souvik&layout=compact)  
 
 ---
