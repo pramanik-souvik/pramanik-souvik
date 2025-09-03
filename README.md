@@ -50,7 +50,7 @@ I aim to build intelligent, ethical, and impactful AI systems that bridge resear
 
 ## 📫 Connect With Me
 - 🌐 [Portfolio Website](https://your-website.com)  
-- 💼 [LinkedIn](https://linkedin.com/in/yourprofile)  
+- 💼 [LinkedIn](https://linkedin.com/in/souvik-pramanik-bb9798242)  
 - 🐦 [Twitter/X](https://twitter.com/yourprofile)  
 - 📧 [Email](mailto:your.email@example.com)  
 
